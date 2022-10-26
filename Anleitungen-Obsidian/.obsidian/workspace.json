@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "b0afbd7672092cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e372c90822aab0cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd96f3ea506e56d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Grundlagen/Markdown Video Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb19786f2aef6a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "44258095b2c7844c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d9d69119332ac38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdd16f9022e3402c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34667c11d22c21f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "839fddfe99e7b2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "02901161f9b5ac02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4006167ef0f943ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Grundlagen/Markdown Video Installation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fd9d3c8b1ecd68e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Grundlagen/Markdown Video Installation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe89f5bf039dd429",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc6eeadf4cf079b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Grundlagen/Markdown Video Installation.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "64eb8b84773aab20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4a9e40c4175eb7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Obsidian Grundlagen/Markdown Video Installation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5843581180567523,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dd96f3ea506e56d1",
+  "lastOpenFiles": [
+    "Obsidian Grundlagen/Markdown Erklärvideos.md",
+    "Obsidian Grundlagen/Markdown Hilfe.md",
+    "Obsidian Grundlagen/Markdown Diagramme.md",
+    "Obsidian in einer Schule/Unterrichtseinheit Internet-Recherche.md",
+    "Obsidian in einer Schule/Obsidian im Schulaltag.md",
+    "Obsidian in einer Schule/Lernentwicklung dokumentieren.md",
+    "Obsidian in einer Schule/Beispiel Routerneustart.md",
+    "Obsidian in einer Schule/Bewertung Ina Test Mathe 1 HJ 2022.md",
+    "Obsidian in einer Schule/Schüler/@ Ina Test.md",
+    "Obsidian in einer Schule/Wissensmanagement-Anforderungen.md"
+  ]
+}
